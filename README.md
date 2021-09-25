@@ -1,5 +1,5 @@
 -Hi, I’m @metenes
-Im a fresh CS candicate studing Bilkent University CS Major.  
+Im a fresh CS candicate studing at Bilkent University CS Major.  
 - I’m interested in Advance Math and also Computer software developing.
 - I’m currently learning Java programming langugae.
 - How to reach me by:
