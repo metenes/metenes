@@ -1,7 +1,7 @@
 -Hi, I’m @metenes
 I’m a fresh CS candicate studing at Bilkent University CS Major.  
 - I’m interested in Advance Math and also Computer software developing.
-- I’m currently learning Java programming langugae.
+- I’m currently learning Java/cpp/pyhton programming langugae.
 - How to reach me by:
 My personal e-mail adress: metee.yilmaz@gmail.com
 My academical e-mail adress: mete.yilmaz@ug.bilkent.edu.tr 
